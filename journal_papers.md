@@ -1,4 +1,4 @@
-## List of publications in peer-reviewed journals
+## Publications in peer-reviewed journals
 
 1. Panfilova M., Karaev V., Mitnik L., Titchenko Y., Ryabkova M., & Meshkov E. Advanced View at the Ocean Surface // Journal of Geophysical Research: Oceans, Vol. 125, 11, e2020JC016531 (2020), [link](https://doi.org/10.1029/2020JC016531).
 
@@ -14,7 +14,7 @@
 
 7. Karaev V., Titchenko Y., Panfilova M., Ryabkova M., Meshkov E., Ponur K. Application of the Doppler Spectrum of the Backscattering Microwave Signal for Monitoring of Ice Cover: A Theoretical View // Remote Sensing, 14(10), 2331 (2022), [link](https://doi.org/10.3390/rs14102331).
 
-8. Karaev V., Titchenko Y., Panfilova M., Ponur K., Ryabkova M., Meshkov E., Kovaldov D. On the Problem of the Sea Ice Detection by Orbital Microwave Doppler Radar at the Nadir Sounding, // Remote Sensing, 14(19), 4937 (2022), [link](https://doi.org/10.3390/rs14194937).
+8. Karaev V., Titchenko Y., Panfilova M., Ponur K., Ryabkova M., Meshkov E., Kovaldov D. On the Problem of the Sea Ice Detection by Orbital Microwave Doppler Radar at the Nadir Sounding // Remote Sensing, 14(19), 4937 (2022), [link](https://doi.org/10.3390/rs14194937).
 
 9. M.S. Ryabkova, V.Yu. Karaev, M.A. Panfilova, Yu.A. Titchenko, E.M. Meshkov, E.M. Zuikova. On  the problem of  river flow influence on  the Doppler spectrum of  reflected radar signal at small angles of  incidence // Current problems in remote sensing of the Earth from space, Vol. 18, 1, pp. 175–187 (2021) (in Russian), [link](http://dx.doi.org/10.21046/2070-7401-2021-18-1-175-187).
 
@@ -40,7 +40,7 @@
 
 20. V. Yu. Karaev, M. A. Panfilova, Yu. A. Titchenko, Eu. M. Meshkov, G. N. Balandina, Yu. V. Kuznetsov & A. L. Shlaferov. Russian scatterometer: discussion of the concept and the numerical simulation of wind field retrieval // International Journal of Remote Sensing, Vol. 36, 24, pp. 6056-6084 (2015), [link](http://dx.doi.org/10.1080/01431161.2015.1110637).
 
-21. V. Yu. Karaev, M. A. Panfilova, Yu. A. Titchenko, E. M. Meshkov, G. N. Balandina, Yu. V. Kuznetsov, A. L. Shlaferov. The First Russian Orbit-Borne Scatterometer: Numerical Simulation // Radiophysics and Quantum Electronics, Vol. 58, pp. 836-851, (2016), [link](https://doi.org/10.1007/s11141-016-9658-x).
+21. V. Yu. Karaev, M. A. Panfilova, Yu. A. Titchenko, E. M. Meshkov, G. N. Balandina, Yu. V. Kuznetsov, A. L. Shlaferov. The First Russian Orbit-Borne Scatterometer: Numerical Simulation // Radiophysics and Quantum Electronics, Vol. 58, pp. 836-851 (2016), [link](https://doi.org/10.1007/s11141-016-9658-x).
 
 22. Panfilova M., Ryabkova M., Karaev V., Skiba E. Retrieval of the Statistical Characteristics of Wind Waves from the Width and Shift of the Doppler Spectrum of the Backscattered Microwave Signal at Low Incidence Angles // IEEE Transactions on Geoscience and Remote Sensing, Vol. 58, 3, pp. 2225-2231 (2020), [link](http://dx.doi.org/10.1109/TGRS.2019.2955546).
 
