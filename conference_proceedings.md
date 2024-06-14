@@ -1,4 +1,4 @@
-## List of publications in conference proceedings
+## Publications in conference proceedings
 
 1. V. Karaev, M. Panfilova, Yu. Titchenko, E. Meshkov, G. Balandina, Yu. Kuznetcov, A. Shlaferov. Numerical simulation of the Russian scatterometer: Choice of width swath // IGARSS 2015, [link](https://doi.org/10.1109/IGARSS.2015.7326931).
 
@@ -71,18 +71,15 @@
 
 ## Presentations at the conferences
 
-1. Presentations at the annual conference “Modern problems of remote
-sensing the Earth from space" at the Institute of Space Research of the Russian Academy of Sciences, Moscow, 2011-2023.
-2. Presentations at the annual IEEE IGARSS conference, 2014, 2016, 2021, 2023.
-3. Presentation at the 40th COSPAR Scientific Assembly in 2014, Moscow.
-4. Presentation at PORSEC conferences in 2012, 2023.
-5. Presentations at the URSI AT-RASC conference in 2020 and 2023.
-6. Presentation at the EuCAP conference in 2018, London, UK.
-7. Presentation at the Photonics & Electromagnetics Research Symposium
-(PIERS) in 2021, Online.
-8. Presentation at the IEEE Radio and Antenna Days of the Indian Ocean (RADIO) conference, Mauritius in 2015.
-9. Presentation at OCEANS MTS/IEEE conferences in 2019, Marseille, France.
-10. Presentation at the EGU General Assembly conference in 2015, Vienna, Austria.
-11. Presentation at 11th Coastal Altimetry Workshop,2018, Frascati (Rome), Italy.
-12. Presentations at the annual conference “Complex Research of the World Ocean”, 2017, 2019, 2021.
-
+1. "Current problems of remote sensing the Earth from space", Institute of Space Research of the Russian Academy of Sciences, Moscow, 2011-2023.
+2. IEEE IGARSS conference, 2014, 2016, 2021, 2023.
+3. The 40th COSPAR Scientific Assembly, 2014, Moscow.
+4. PORSEC conference, 2012, 2023.
+5. URSI AT-RASC conference, 2020, 2023.
+6. EuCAP conference, 2018, London, UK.
+7. Photonics & Electromagnetics Research Symposium (PIERS) in 2021, online.
+8. IEEE Radio and Antenna Days of the Indian Ocean (RADIO) conference, 2015, Mauritius.
+9. OCEANS MTS/IEEE conference, 2019, Marseille, France.
+10. EGU General Assembly conference, 2015, Vienna, Austria.
+11. The 11th Coastal Altimetry Workshop, 2018, Frascati (Rome), Italy.
+12. "Complex Research of the World Ocean", 2017, 2019, 2021.
