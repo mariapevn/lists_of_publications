@@ -1,12 +1,12 @@
-# Participation in grants of the Russian Science Foundation (RSF) and the Russian Foundation for Basic Research (RFBR)
+## Participation in grants of the Russian Science Foundation (RSF) and the Russian Foundation for Basic Research (RFBR)
 
-## as a leader:
+### As a leader
 
 1. 16-35-00548, RFBR, mol_a, Development of new methods for remote determination of spectral characteristics of sea waves, 2016-2017
-2. RFBR grant No. 12-05-09374-mob_z for presenting the report “Two-parameter algorithm for determining wind speed from PR radar data” at the scientific event “PORSEC-2012”, 2012
+2. RFBR grant No. 12-05-09374-mob_z for presenting the report "Two-parameter algorithm for determining wind speed from PR radar data" at the scientific event "PORSEC-2012", 2012
 
 
-## as an executor:
+### As an executor
 
 1. 13-05-00852, RFBR, A, Development of new methods for remote diagnostics of the ocean surface and the surface wind field, 2013-2015
 2. 14-05-31517, RFBR, mol_a, Experimental and theoretical study of the influence of conditions for the formation of surface waves and rain intensity on the backscattering of electromagnetic and acoustic waves by the water surface, in relation to the problem of remote sensing of the sea surface, 2014-2015
@@ -26,9 +26,9 @@
 16. 23-77-10064, Russian Science Foundation, Development of near-nadir radar and hydroacoustic remote methods for monitoring ice cover, 2023-2025
 
 
-# Participation in the international programs:
+## Participation in the international programs
 
-1. Cooperation exchange project between the National Natural Science Foundation of China and the Russian Foundation for Basic Research (41511130026, 2015/01-2016/12), “Using SAR data to analyze the influence Factors of Radar Backscattering and Wind field inversion”
-2. Cooperation exchange project between the National Natural Science Foundation of China and the Russian Foundation for Basic Research “The Influence of Theoretical Digital Simulation of sea Conditions on the accuracy of sea surface wind field inversion of Scatterometer”(Chinese Academy of Sciences China-Russia International Science and Technology Cooperation Project (Y429011031, 2014/01-2014/12)
+1. Cooperation exchange project between the National Natural Science Foundation of China and the Russian Foundation for Basic Research (41511130026, 2015/01-2016/12), "Using SAR data to analyze the influence Factors of Radar Backscattering and Wind field inversion"
+2. Cooperation exchange project between the National Natural Science Foundation of China and the Russian Foundation for Basic Research "The Influence of Theoretical Digital Simulation of sea Conditions on the accuracy of sea surface wind field inversion of Scatterometer" (Chinese Academy of Sciences China-Russia International Science and Technology Cooperation Project (Y429011031, 2014/01-2014/12)
 3. Key foreign cooperation project "Research on Offshore Oil Spill Detection and its Ecological Impact" of the Bureau of International Cooperation of the Chinese Academy of Sciences (133337KYSB20160002, 2017.01.01 - 2019.12.31)
-4. Projects supported by JAXA (2013 - 2015, 2016 - 2018, 2019 - 2022)
+4. Projects supported by JAXA (2013-2015, 2016-2018, 2019-2022)
