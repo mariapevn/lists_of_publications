@@ -71,8 +71,8 @@
 
 ## Presentations at the conferences
 
-1. "Current problems of remote sensing the Earth from space", Institute of Space Research of the Russian Academy of Sciences, Moscow, 2011-2023.
-2. IEEE IGARSS conference, 2014, 2016, 2021, 2023.
+1. Current problems of remote sensing the Earth from space, Institute of Space Research of the Russian Academy of Sciences, Moscow, 2011-2023.
+2. IEEE IGARSS conference, 2014, 2016, 2021, 2023, 2024, 2025.
 3. The 40th COSPAR Scientific Assembly, 2014, Moscow.
 4. PORSEC conference, 2012, 2023.
 5. URSI AT-RASC conference, 2020, 2023.
@@ -82,4 +82,6 @@
 9. OCEANS MTS/IEEE conference, 2019, Marseille, France.
 10. EGU General Assembly conference, 2015, Vienna, Austria.
 11. The 11th Coastal Altimetry Workshop, 2018, Frascati (Rome), Italy.
-12. "Complex Research of the World Ocean", 2017, 2019, 2021.
+12. Complex Research of the World Ocean, 2017, 2019, 2021.
+13. Living Planet Symposium, 2025, Vienna, Austria.
+14. The 16th European Wave and Tidal Energy Conference, 2025, Madeira, Portugal
