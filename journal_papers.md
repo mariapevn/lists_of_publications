@@ -1,4 +1,7 @@
 ## Publications in peer-reviewed journals
+
+1. Panfilova M., Karaev V. Sea Ice Concentration Manifestation in Radar Signal at Low Incidence Angles Depending on Wind Speed // Remote Sens. 17, 1858 (2025), [link](https://doi.org/10.3390/rs17111858).
+   
 1. Kovaldov D., Titchenko Y., Karaev V., Panfilova M. Features of quasi-specular reflection of microwave radio waves by sea ice according to bistatic remote sensing data in the L-band // Sovremennye problemy distantsionnogo zondirovaniya Zemli iz kosmosa, Vol. 22(2), pp. 217–232, (2025) (in Russian) [link](https://doi.org/10.21046/2070-7401-2025-22-2-217-232).
 
 1. Kovaldov D., Titchenko Y., Karaev V., Panfilova M., Lopatin V., Fateev V. On the issue of determining the scattering diagram of ice cover
