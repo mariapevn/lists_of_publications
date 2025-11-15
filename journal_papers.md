@@ -1,20 +1,26 @@
 ## Publications in peer-reviewed journals
+1. Kovaldov D., Titchenko Y., Karaev V., Panfilova M. Features of quasi-specular reflection of microwave radio waves by sea ice according to bistatic remote sensing data in the L-band // Sovremennye problemy distantsionnogo zondirovaniya Zemli iz kosmosa, Vol. 22(2), pp. 217–232, (2025) (in Russian) [link](https://doi.org/10.21046/2070-7401-2025-22-2-217-232).
+
+1. Kovaldov D., Titchenko Y., Karaev V., Panfilova M., Lopatin V., Fateev V. On the issue of determining the scattering diagram of ice cover
+using bistatic remote sensing data in the L-band // Sovremennye problemy distantsionnogo zondirovaniya Zemli iz kosmosa, Vol. 21(6), pp. 294–308  (2025) (in Russian), [link](https://doi.org/10.21046/2070-7401-2024-21-6-294-308).
+
+1. Karaev V., Titchenko Y., Ponur K., Meshkov E., Krylov A., Khakhin E., Ponce de Le´on S., Panfilova M., Lebedev I., and Ryabkova M. First Experiment With an Altimeter With Knife-Like Beam: Comparison With a Model of the Waveform of a Reflected Impulse // IEEE Transactions on Geoscience and Remote Sensing, Vol. 63, pp. 1-14 (2025), [link](https://ieeexplore.ieee.org/document/11017747).
 
 1. Panfilova M., Karaev V., Mitnik L., Titchenko Y., Ryabkova M., & Meshkov E. Advanced View at the Ocean Surface // Journal of Geophysical Research: Oceans, Vol. 125, 11, e2020JC016531 (2020), [link](https://doi.org/10.1029/2020JC016531).
 
 2. Panfilova M. A., Karaev V. Y., & Guo, J. Oil Slick Observation at Low Incidence Angles in Ku-Band // Journal of Geophysical Research: Oceans, Vol. 123, 3, pp. 1924–1936 (2018), [link](https://doi.org/10.1002/2017JC013377).
 
-3. Panfilova M., Karaev V. Wind Speed Retrieval Algorithm Using Ku-Band Radar Onboard GPM Satellite // Remote Sensing, 13(22), 4565 (2021), [link](https://doi.org/10.3390/rs13224565).
+3. Panfilova M., Karaev V. Wind Speed Retrieval Algorithm Using Ku-Band Radar Onboard GPM Satellite // Remote Sensing, Vol. 13(22), 4565 (2021), [link](https://doi.org/10.3390/rs13224565).
 
-4. Panfilova M., Karaev V. Gale Wind Speed Retrieval Algorithm Using Ku-Band Radar Data Onboard GPM Satellite // Remote Sensing, 14(24), 6268 (2022), [link](https://doi.org/10.3390/rs14246268).
+4. Panfilova M., Karaev V. Gale Wind Speed Retrieval Algorithm Using Ku-Band Radar Data Onboard GPM Satellite // Remote Sensing, Vol. 14(24), 6268 (2022), [link](https://doi.org/10.3390/rs14246268).
 
-5. Panfilova M., Karaev V. Sea Ice Detection by an Unsupervised Method Using Ku- and Ka-Band Radar Data at Low Incidence Angles: First Results // Remote Sensing, 15(14), 3530 (2023), [link](https://doi.org/10.3390/rs15143530).
+5. Panfilova M., Karaev V. Sea Ice Detection by an Unsupervised Method Using Ku- and Ka-Band Radar Data at Low Incidence Angles: First Results // Remote Sensing, Vol. 15(14), 3530 (2023), [link](https://doi.org/10.3390/rs15143530).
 
 6. Li X., Karaev V., Panfilova M., Liu B., Wang Z., Xu Y., Liu J., He, Y. Measurements of Total Sea Surface Mean Square Slope Field Based on SWIM Data // IEEE Transactions on Geoscience and Remote Sensing, Vol. 60, 1-9 (2022), [link](https://doi.org/10.1109/tgrs.2022.3174392).
 
-7. Karaev V., Titchenko Y., Panfilova M., Ryabkova M., Meshkov E., Ponur K. Application of the Doppler Spectrum of the Backscattering Microwave Signal for Monitoring of Ice Cover: A Theoretical View // Remote Sensing, 14(10), 2331 (2022), [link](https://doi.org/10.3390/rs14102331).
+7. Karaev V., Titchenko Y., Panfilova M., Ryabkova M., Meshkov E., Ponur K. Application of the Doppler Spectrum of the Backscattering Microwave Signal for Monitoring of Ice Cover: A Theoretical View // Remote Sensing, Vol. 14(10), 2331 (2022), [link](https://doi.org/10.3390/rs14102331).
 
-8. Karaev V., Titchenko Y., Panfilova M., Ponur K., Ryabkova M., Meshkov E., Kovaldov D. On the Problem of the Sea Ice Detection by Orbital Microwave Doppler Radar at the Nadir Sounding // Remote Sensing, 14(19), 4937 (2022), [link](https://doi.org/10.3390/rs14194937).
+8. Karaev V., Titchenko Y., Panfilova M., Ponur K., Ryabkova M., Meshkov E., Kovaldov D. On the Problem of the Sea Ice Detection by Orbital Microwave Doppler Radar at the Nadir Sounding // Remote Sensing, Vol. 14(19), 4937 (2022), [link](https://doi.org/10.3390/rs14194937).
 
 9. M.S. Ryabkova, V.Yu. Karaev, M.A. Panfilova, Yu.A. Titchenko, E.M. Meshkov, E.M. Zuikova. On  the problem of  river flow influence on  the Doppler spectrum of  reflected radar signal at small angles of  incidence // Current problems in remote sensing of the Earth from space, Vol. 18, 1, pp. 175–187 (2021) (in Russian), [link](http://dx.doi.org/10.21046/2070-7401-2021-18-1-175-187).
 
@@ -34,7 +40,7 @@
 
 17. Karaev V. Yu., Panfilova M. A., Meshkov E. M., Titchenko Yu. A., Balandina G. N., Andreeva Z. V. Hydrological monitoring in rivers by dual-frequency precipitation radar data: first results // Current problems in remote sensing of the Earth from space, Vol. 14, 1, pp. 185-199 (2017), [link](http://dx.doi.org/10.21046/2070-7401-2017-14-1-185-199).
 
-18. V. Yu. Karaev, M. A. Panfilova, Yu. A. Titchenko, E. M. Meshkov, G. N. Balandina, Z. V. Andreeva. The First Results of Monitoring the Formation and Destruction of Ice Cover in Winter 2014-2015 on Ilmen Lake according to the Measurements of Dual-Frequency Precipitation Radar // Izvestiya, Atmospheric and Oceanic Physics, 53(9), pp. 1050–1059 (2017), [link](https://doi.org/10.1134/S0001433817090146).
+18. V. Yu. Karaev, M. A. Panfilova, Yu. A. Titchenko, E. M. Meshkov, G. N. Balandina, Z. V. Andreeva. The First Results of Monitoring the Formation and Destruction of Ice Cover in Winter 2014-2015 on Ilmen Lake according to the Measurements of Dual-Frequency Precipitation Radar // Izvestiya, Atmospheric and Oceanic Physics, Vol. 53(9), pp. 1050–1059 (2017), [link](https://doi.org/10.1134/S0001433817090146).
 
 19. V. Karaev, M. Panfilova, Y. Titchenko, E. Meshkov, G. Balandina, Y. Kuznetsov, A. Shlaferov. Retrieval of the Near-Surface Wind Velocity and Direction: Scat-3 Orbit-Borne Scatterometer // Radiophysics and Quantum Electronics, Vol. 59, pp. 259-269 (2016), [link](http://dx.doi.org/10.1007/s11141-016-9695-5).
 
@@ -52,9 +58,9 @@
 
 26. Karaev V.Yu., Panfilova M.A., Meshkov E.M., Balandina G.N., Andreeva Z.V., Maksimov A.A. Using the data of the dual-frequency precipitation radar for monitoring of the formation and destruction of the ice cover on Baikal Lake in the autumn-winter of 2015-2016 // Current problems in remote sensing of the Earth from space, Vol. 15, 1, pp. 206-220 (2018) (in Russian), [link](https://doi.org/10.21046/2070-7401-2018-15-1-206-220).
 
-27. Panfilova M.A., Kuznetsova A.M., Baidakov G.A., Troitskaya Yu.I., Karaev V.Yu. The method of comparison of WAVEWATCH III model calculation results with the data of the Ka-band radar // Current problems in remote sensing of the Earth from space, Vol. 17, 7, pp. 9-18 (2020) (in Russian), [link](https://doi.org/10.21046/2070-7401-2020-17-7-9-18). 
+27. Panfilova M.A., Kuznetsova A.M., Baidakov G.A., Troitskaya Yu.I., Karaev V.Yu. The method of comparison of WAVEWATCH III model calculation results with the data of the Ka-band radar // Current problems in remote sensing of the Earth from space, Vol. 17, 7, pp. 9-18 (2020) (in Russian), [link](https://doi.org/10.21046/2070-7401-2020-17-7-9-18).
 
-28. Panfilova M.A., Karaev V.Yu., Balandina G.N., Chu K. Retrieval of the dispersion of large-scale wave slopes from radar measurements in the microwave range // Earth Research from Space, No. 4, pp. 62-77 (2012) (in Russian), [link](https://www.elibrary.ru/item.asp?id=17845671).
+29. Panfilova M.A., Karaev V.Yu., Balandina G.N., Chu K. Retrieval of the dispersion of large-scale wave slopes from radar measurements in the microwave range // Earth Research from Space, No. 4, pp. 62-77 (2012) (in Russian), [link](https://www.elibrary.ru/item.asp?id=17845671).
 
-29. Panfilova M.A., Karaev V.Yu. Using space-borne precipitation radar data to investigate variations of slope variance of large-scale waves in a slick // Current problems in remote sensing of the Earth from space, Vol. 14, 5, pp. 187-194 (2017) (in Russian), [link](https://doi.org/10.21046/2070-7401-2017-14-5-187-194).
+30. Panfilova M.A., Karaev V.Yu. Using space-borne precipitation radar data to investigate variations of slope variance of large-scale waves in a slick // Current problems in remote sensing of the Earth from space, Vol. 14, 5, pp. 187-194 (2017) (in Russian), [link](https://doi.org/10.21046/2070-7401-2017-14-5-187-194).
 
